@@ -93,7 +93,5 @@ The app provides **real-time predictions** using an interactive **Streamlit** in
    - 💚 **Low Risk**  
    - ⚠️ **High Risk**
 
----
 
-## 📁 Project Structure
 
